@@ -1,0 +1,22 @@
+{
+  "name": "playwright-agentic-framework",
+  "version": "1.0.0",
+  "description": "AI agent routing",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzmikhalchuk/playwright-agentic-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dzmikhalchuk/playwright-agentic-framework/issues"
+  },
+  "homepage": "https://github.com/dzmikhalchuk/playwright-agentic-framework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.1"
+  }
+}
